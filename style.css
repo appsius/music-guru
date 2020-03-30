@@ -55,7 +55,7 @@ body {
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	animation: rotate 4s linear infinite;
+	animation: rotate 3s linear infinite;
 	animation-play-state: paused;
 }
 
@@ -132,7 +132,7 @@ body {
 }
 
 .progress {
-	background-color: #fe8daa;
+	background-color: #f72156;
 	border-radius: 5px;
 	height: 100%;
 	width: 0%;
